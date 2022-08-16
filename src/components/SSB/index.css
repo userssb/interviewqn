@@ -1,0 +1,36 @@
+.bg-cont {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+}
+.form-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+.line-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+  margin: 5px;
+}
+.label {
+  margin-right: 25px;
+}
+.btn-save {
+  background-color: greenyellow;
+  color: blue;
+  height: 30px;
+  width: 90px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.btn-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
