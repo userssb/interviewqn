@@ -4,7 +4,9 @@ import sqlite3 from 'sqlite3'
 import app from 'express'
 
 const SSB = () => {
-  const saveData = () => {}
+  const saveData = () => {
+  //Here I want to write app.post() code
+  }
 
   return (
     <div className="bg-cont">
